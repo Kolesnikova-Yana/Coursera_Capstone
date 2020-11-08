@@ -1,0 +1,432 @@
+Venue Category,primary
+Museum,Art
+Forest,Recreation
+Fountain,Recreation
+Irish Pub,Food
+Eastern European Restaurant,Food
+Gym,Sports
+Grocery Store,Shop
+Café,Food
+Racetrack,Sports
+Cafeteria,Food
+Bus Stop,Transport
+Rock Climbing Spot,Sports
+Campground,Recreation
+History Museum,Art
+Pool,Sports
+Lake,Recreation
+BBQ Joint,Food
+Rental Car Location,Travel
+Design Studio,Service
+Athletics & Sports,Sports
+Park,Recreation
+Canal,Recreation
+Beach,Recreation
+Convenience Store,Shop
+Auto Garage,Transport
+Harbor / Marina,Recreation
+River,Recreation
+Rest Area,Recreation
+Garden,Recreation
+Miscellaneous Shop,Shop
+Food & Drink Shop,Shop
+Historic Site,Entertainment
+Bath House,Service
+Arts & Crafts Store,Shop
+Nature Preserve,Recreation
+Cosmetics Shop,Shop
+Intersection,Transport
+Recreation Center,Recreation
+Sauna / Steam Room,Service
+Food Truck,Food
+Coffee Shop,Shop
+Restaurant,Food
+Italian Restaurant,Food
+Theme Park,Recreation
+Playground,Playground
+Juice Bar,Food
+Caucasian Restaurant,Food
+Fried Chicken Joint,Food
+Electronics Store,Shop
+Kids Store,Shop
+Other Great Outdoors,Recreation
+Pharmacy,Service
+Plaza,Travel
+Bookstore,Shop
+Liquor Store,Shop
+Shoe Store,Shop
+Clothing Store,Shop
+Soccer Field,Sports
+Go Kart Track,Sports
+Tennis Court,Sports
+Paintball Field,Sports
+Skating Rink,Sports
+Music Venue,Entertainment
+Pizza Place,Food
+Auto Workshop,Shop
+Discount Store,Shop
+Pet Store,Shop
+Farmers Market,Shop
+Wine Shop,Shop
+Beer Store,Shop
+Salon / Barbershop,Shop
+IT Services,Service
+Sporting Goods Shop,Shop
+Baby Store,Shop
+American Restaurant,Food
+Trail,Recreation
+Stables,Sports
+Bus Line,Transport
+Nightclub,Entertainment
+Tree,Recreation
+Dance Studio,Sports
+Ski Area,Sports
+Dive Spot,Recreation
+Garden Center,Recreation
+Cave,Recreation
+Buffet,Food
+Tram Station,Transport
+Bay,Recreation
+Fishing Spot,Recreation
+Waterfall,Recreation
+Vineyard,Recreation
+German Restaurant,Food
+Boat or Ferry,Recreation
+Surf Spot,Recreation
+Furniture / Home Store,Shop
+Supermarket,Shop
+Fruit & Vegetable Store,Shop
+Candy Store,Shop
+Hardware Store,Shop
+Snack Place,Food
+Noodle House,Food
+Health & Beauty Service,Medical Center
+Gym / Fitness Center,Sports
+Brewery,Food
+School,Education
+Hotel,Travel
+Seafood Restaurant,Food
+Pedestrian Plaza,Recreation
+Ukrainian Restaurant,Food
+Exhibit,Art
+Scenic Lookout,Education
+Racecourse,Sports
+Concert Hall,Entertainment
+Event Space,Art
+Photography Lab,Service
+Bike Rental / Bike Share,Transport
+Hookah Bar,Food
+Zoo,Recreation
+Gift Shop,Shop
+Diner,Food
+Dessert Shop,Shop
+Paper / Office Supplies Store,Shop
+Coworking Space,Service
+Austrian Restaurant,Food
+Theater,Art
+College Soccer Field,Sports
+State / Provincial Park,Recreation
+Botanical Garden,Recreation
+College Gym,Sports
+Yoga Studio,Sports
+Bakery,Food
+Doner Restaurant,Food
+Gastropub,Food
+Cocktail Bar,Food
+Gas Station,Service
+Photography Studio,Service
+Platform,Transport
+Cruise Ship,Recreation
+Canal Lock,Recreation
+Cheese Shop,Shop
+Butcher,Food
+Fast Food Restaurant,Food
+Cupcake Shop,Shop
+Steakhouse,Food
+Health Food Store,Shop
+Sushi Restaurant,Food
+Middle Eastern Restaurant,Food
+Outlet Store,Shop
+Flower Shop,Shop
+Chinese Restaurant,Food
+College Stadium,Sports
+Pastry Shop,Shop
+Lounge,Food
+Bar,Food
+Spa,Service
+Hunting Supply,Shop
+Stadium,Sports
+Auto Dealership,Transport
+Hot Dog Joint,Food
+Mountain,Recreation
+Theme Park Ride / Attraction,Recreation
+Gourmet Shop,Shop
+Arcade,Entertainment
+Bike Shop,Shop
+Beer Garden,Food
+Women's Store,Shop
+Sculpture Garden,Recreation
+Pub,Food
+Hostel,Travel
+Pier,Transport
+Recording Studio,Service
+Public Art,Art
+Bus Station,Transport
+Pie Shop,Shop
+Fish Market,Shop
+Tea Room,Food
+Sports Club,Sports
+Burger Joint,Food
+Kebab Restaurant,Food
+Fishing Store,Shop
+Lingerie Store,Shop
+Airport Service,Transport
+Fireworks Store,Shop
+Dairy Store,Shop
+Modern European Restaurant,Food
+Tanning Salon,Service
+Vegetarian / Vegan Restaurant,Food
+Warehouse Store,Shop
+Factory,Professional & Other
+Indie Theater,Art
+Smoke Shop,Shop
+Art Gallery,Art
+Jewelry Store,Shop
+Climbing Gym,Sports
+Office,Professional & Other
+Bed & Breakfast,Travel
+Korean Restaurant,Food
+Market,Shop
+Gym Pool,Sports
+Gymnastics Gym,Sports
+Train Station,Transport
+Hobby Shop,Shop
+Metro Station,Transport
+Bridge,Transport
+Rafting,Sports
+Soccer Stadium,Sports
+Toy / Game Store,Shop
+Ramen Restaurant,Food
+Automotive Shop,Shop
+Shopping Mall,Shop
+Mobile Phone Shop,Shop
+Zoo Exhibit,Recreation
+Udon Restaurant,Food
+Lebanese Restaurant,Food
+Salad Place,Food
+Frozen Yogurt Shop,Shop
+Fabric Shop,Shop
+Dog Run,Recreation
+Music Store,Shop
+Boutique,Shop
+Martial Arts School,Education
+Adult Boutique,Shop
+Outdoor Sculpture,Art
+Massage Studio,Service
+Sandwich Place,Food
+Motorcycle Shop,Shop
+Optical Shop,Shop
+Veterinarian,Medical Center
+Residential Building (Apartment / Condo),Professional & Other
+Pool Hall,Sports
+Airport Lounge,Transport
+West-Ukrainian Restaurant,Food
+Japanese Restaurant,Food
+Deli / Bodega,Shop
+Mattress Store,Shop
+Multiplex,Entertainment
+Mediterranean Restaurant,Food
+Waterfront,Recreation
+Varenyky restaurant,Food
+Halal Restaurant,Food
+Food Court,Food
+Organic Grocery,Shop
+Beer Bar,Food
+Frame Store,Shop
+Kitchen Supply Store,Shop
+Argentinian Restaurant,Food
+Squash Court,Sports
+Sports Bar,Sports
+Doctor's Office,Medical Center
+Fair,Professional & Other
+Polish Restaurant,Food
+Big Box Store,Shop
+Airport,Transport
+Bistro,Food
+Airport Terminal,Transport
+Insurance Office,Service
+Greek Restaurant,Food
+Boxing Gym,Sports
+Outdoor Supply Store,Shop
+Weight Loss Center,Professional & Other
+Champagne Bar,Food
+Men's Store,Shop
+Ice Cream Shop,Shop
+Leather Goods Store,Shop
+Art Museum,Art
+Gaming Cafe,Food
+Trattoria/Osteria,Food
+Badminton Court,Sports
+Other Repair Shop,Shop
+Monastery,Spiritual Center
+Island,Professional & Other
+Tourist Information Center,Travel
+Dive Bar,Food
+Dumpling Restaurant,Food
+Movie Theater,Entertainment
+Chocolate Shop,Shop
+Track,Sports
+Tennis Stadium,Sports
+Karaoke Bar,Entertainment
+Burrito Place,Food
+Tatar Restaurant,Food
+Creperie,Food
+Asian Restaurant,Food
+Boarding House,Professional & Other
+Strip Club,Entertainment
+College Cafeteria,Food
+Breakfast Spot,Food
+Board Shop,Shop
+Cycle Studio,Sports
+Wine Bar,Food
+Rock Club,Entertainment
+Vape Store,Shop
+Church,Spiritual Center
+Hotel Bar,Travel
+Country Dance Club,Entertainment
+Turkish Restaurant,Food
+Soup Place,Food
+Hungarian Restaurant,Food
+Basketball Court,Sports
+Thrift / Vintage Store,Shop
+Tailor Shop,Shop
+Monument / Landmark,Recreation
+Cuban Restaurant,Food
+Indian Restaurant,Food
+Boat Rental,Recreation
+New American Restaurant,Food
+Spanish Restaurant,Food
+Track Stadium,Sports
+Food,Food
+Train,Transport
+Performing Arts Venue,Art
+Record Shop,Shop
+Light Rail Station,Transport
+Drugstore,Shop
+Business Service,Transport
+Print Shop,Shop
+General Entertainment,Entertainment
+Perfume Shop,Shop
+Neighborhood,Professional & Other
+Mexican Restaurant,Food
+Opera House,Art
+Bridal Shop,Shop
+Gay Bar,Food
+Vietnamese Restaurant,Food
+Planetarium,Entertainment
+Skate Park,Recreation
+Castle,Recreation
+Churrascaria,Food
+French Restaurant,Food
+Temple,Spiritual Center
+Indie Movie Theater,Entertainment
+RV Park,Recreation
+Camera Store,Shop
+Film Studio,Entertainment
+Shipping Store,Shop
+Flea Market,Shop
+Bathing Area,Recreation
+Gun Range,Professional & Other
+Lighting Store,Shop
+Gun Shop,Shop
+Donut Shop,Shop
+Moving Target,Transport
+Roof Deck,Recreation
+Medical Center,Medical Center
+Salsa Club,Sports
+Blini House,Food
+Belgian Restaurant,Food
+Speakeasy,Food
+Israeli Restaurant,Food
+Science Museum,Art
+Kosher Restaurant,Food
+Department Store,Shop
+Food Stand,Food
+Student Center,Education
+Travel Agency,Travel
+Czech Restaurant,Food
+Other Nightlife,Entertainment
+Auditorium,Professional & Other
+Video Game Store,Shop
+Roller Rink,Sports
+Indoor Play Area,Recreation
+College Quad,Education
+Street Art,Art
+Cultural Center,Art
+College Arts Building,Education
+Jewish Restaurant,Food
+Poke Place,Food
+Thai Restaurant,Food
+Music School,Education
+Road,Transport
+Piercing Parlor,Service
+Scottish Restaurant,Food
+Souvenir Shop,Shop
+Swiss Restaurant,Food
+Brazilian Restaurant,Food
+Palace,Entertainment
+Amphitheater,Entertainment
+Indian Chinese Restaurant,Food
+Heliport,Transport
+Nudist Beach,Recreation
+Outdoor Gym,Sports
+Convention Center,Service
+Costume Shop,Shop
+Bank,Service
+Pilates Studio,Sports
+College Theater,Art
+Drive-in Theater,Art
+Tattoo Parlor,Service
+Jazz Club,Entertainment
+Beach Bar,Food
+Summer Camp,Recreation
+Lawyer,Professional & Other
+Aquarium,Entertainment
+Falafel Restaurant,Food
+Sausage Shop,Shop
+Luggage Store,Shop
+Comfort Food Restaurant,Food
+Stationery Store,Shop
+Hockey Arena,Sports
+Car Wash,Service
+Supplement Shop,Shop
+Port,Transport
+Resort,Recreation
+Farm,Professional & Other
+Used Bookstore,Shop
+Comic Shop,Shop
+Bubble Tea Shop,Shop
+Nail Salon,Service
+Laser Tag,Entertainment
+Fish & Chips Shop,Shop
+Internet Cafe,Food
+Dry Cleaner,Service
+Bowling Alley,Entertainment
+Storage Facility,Professional & Other
+Hockey Field,Sports
+Tunnel,Transport
+Baseball Field,Sports
+Accessories Store,Shop
+Shoe Repair,Service
+Outlet Mall,Shop
+Golf Course,Sports
+Persian Restaurant,Food
+Volleyball Court,Sports
+Wings Joint,Food
+Construction & Landscaping,Recreation
+Bike Trail,Sports
+Food Service,Food
+Motel,Travel
+Casino,Entertainment
+Medical Supply Store,Shop
+Building,Professional & Other
